@@ -29,7 +29,7 @@
                         <span></span>
                         <span></span>
                         <span></span>
-                        Start Conversation
+                        Say Hi to Start Conversation
                     </a>
                 </div>
             </div>
